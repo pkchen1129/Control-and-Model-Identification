@@ -1,4 +1,4 @@
-# Control-and-Model-Identification
+# Control and Model Identification
 ## Introduction
 
 The experiment is about doing system identification of the inverted pendulum and designing the corresponding controller. In addition, we further deal with the motor dead zone by completing several experiments on the system. 
