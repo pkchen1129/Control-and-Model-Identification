@@ -5,12 +5,17 @@ The experiment is about doing system identification of the inverted pendulum and
 
 <img src="Image/Exp_purpose.png" width="300" >
 
+
 ## Flowchart
+
 <img src="Image/Flowchart.png" width="300" >
 
 ## System Identification
 ### Problem:
-We considered first and second order model to fit our system. However, as long we tried several experiments and 
+We considered first and second order model to fit our system. We wanted to construct all of the models corresponding to several situations as shown in the picture. 
+<img src="Image/.png" width="300" >
+
+However, as long we tried several experiments, the results are inconsistent with the first and second order model. To solve the problem, we implemented dead-zone identification as mentioned below.
 
 ### Solution: Dead Zone Identification
 
